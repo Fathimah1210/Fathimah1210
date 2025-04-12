@@ -74,6 +74,4 @@ I have a strong background in database systems such as SQL Server and Oracle, an
 
 ---
 
-> "Turning data into actionable insights and building structured systems for tomorrow’s decisions."
-
 I really enjoy collaborating and having discussions about anything I know — especially when it comes to learning new things that align with my passion. Let’s connect and grow together!
