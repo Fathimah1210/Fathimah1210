@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fathimah Az Zahra!
 
-🎓 I'm a final-year Information Systems student at **Multimedia Nusantara University** with a GPA of **3.74**, deeply passionate about databases, data analytics, and insightful dashboard design.
+🎓 I'm a final-year Information Systems student at **Multimedia Nusantara University** , deeply passionate about databases, data analytics, and insightful dashboard design.
 
 ---
 
