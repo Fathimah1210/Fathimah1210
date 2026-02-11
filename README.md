@@ -1,69 +1,95 @@
 # 👋 Hi, I'm Fathimah Az Zahra!
 
-🎓 I’m a **fresh graduate in Information Systems** from a university in Indonesia.  
-Currently, I work with **Python** as a teacher and actively develop my skills in **data analytics**, **databases**, and **machine learning**.
+🎓 I’m a **fresh graduate in Information Systems (GPA 3.74/4.00)** from Indonesia.  
+I actively work with **Python** in both academic and professional settings, focusing on **data analytics, research support, and analytical problem-solving**.
 
-I enjoy working collaboratively, learning new things, and integrating data-driven approaches into real-world needs. I also have a side interest in the **business world**, especially **marketing MPR** and **customer engagement**.
+Currently, I teach Python while continually strengthening my expertise in data analysis, machine learning, and AI systems. I am particularly interested in how structured data and intelligent systems can support real-world decision-making.
 
 ---
 
 ## 💼 Experience
 
-- 👩‍💻 **Business Intelligence Developer Intern** — Technocolabs Softwares  
-- 🧠 **Database Administrator Intern** — PT PNM  
-- 🐍 **Python Teacher** — (Current)
+### 🧪 Data Analyst Laboratory Assistant — Multimedia Nusantara University
+- Conducted data cleaning, preprocessing, and exploratory data analysis (EDA) using Python (Pandas, NumPy).
+- Prepared structured datasets and validated analytical outputs to support academic research.
+- Ensured data consistency and documented analytical workflows.
+
+### 🧠 Freelance AI Trainer (Prompt Engineer) — Outlier
+- Designed and optimized prompts for LLM-based tasks.
+- Generated structured queries, CTA content, and coding-related outputs (Python & Java).
+- Improved response accuracy and task alignment through prompt refinement.
+- Gained practical understanding of LLM behavior and output optimization.
+
+### 👩‍💻 Business Intelligence Developer Intern — Technocolabs Softwares
+- Processed and analyzed datasets using Python.
+- Developed SQL queries for data extraction and manipulation.
+- Built dashboards using Power BI and Excel to support data-driven decision-making.
+
+### 🗄️ Database Administrator Intern — PT PNM
+- Worked with SQL Server for data management and cleansing.
+- Assisted in database monitoring, backup, and documentation.
+- Contributed to database design and system documentation.
+
+### 🐍 Python Coding Teacher — CodingBee Academy (Current)
+- Teach Python fundamentals, branching, looping, functions, and file handling.
+- Guide students in object-oriented programming (encapsulation, inheritance, abstraction, polymorphism).
+- Strengthen logical thinking and structured problem-solving skills.
+
+---
+
+## 🎓 Academic Project
+
+### Undergraduate Thesis — Full-Stack Web System Development
+- Backend: PHP with MySQL database integration
+- Frontend: JavaScript, HTML, CSS
+- Designed database structure and implemented dynamic data retrieval
+- Demonstrated understanding of system architecture and data flow
+
+🔗 Project: https://distraco.com/home?locale=en
 
 ---
 
 ## 🚀 Technical Skills
 
-### **Database & Querying**
-- SQL Server, Oracle, PL/SQL  
-- Data Modeling, ETL, Query Optimization  
-
-### **Programming & Analytics**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Exploratory Data Analysis  
-- Data Cleaning  
+### Programming & Analytics
+- Python (Pandas, NumPy, Data Cleaning, EDA)
+- SQL & MySQL
 - Basic Machine Learning (ongoing learning)
 
-### **Visualization**
-- Power BI, Tableau  
-- DAX, Dashboard Building  
-- Business Reporting & Visualization
-
-### **Tools**
-- Git & GitHub  
+### Business Intelligence & Visualization
+- Power BI
+- Tableau
 - Excel (Pivot Tables, Power Query)
+
+### Web & Systems
+- PHP (Backend Development)
+- JavaScript, HTML, CSS
+- Database Design & Data Flow Integration
+
+### Tools
+- Git & GitHub
+- Jupyter Notebook
+- Google Colab
 
 ---
 
 ## 🧠 Soft Skills
-- Analytical Thinking  
-- Critical Thinking  
-- Problem Solving  
-- Collaboration & Teamwork  
-- Time Management  
-- Adaptability  
-- Attention to Detail  
+- Analytical Thinking
+- Structured Problem-Solving
+- Research Support & Documentation
+- Collaboration & Communication
+- Adaptability & Continuous Learning
 
 ---
 
-##  Certificates
-- 🇬🇧 EF English Class — Frontrunner A2.1–B1.2  
-
----
-
-## 🗣️ Organizational Experience
-**UESC UMN – Speech Division Member** *(2021–2022)*  
-- Participated in English speech discussions and competitions.
-
-**English Speech Competition – UMN** *(2022)*
+## 📜 Certifications
+- Duolingo English Test — CEFR B2 (Score 105)
+- EF English Class — Frontrunner A2.1–B1.2
 
 ---
 
 ## 🌱 Currently Exploring
-- Machine Learning  
-- Data Engineering Fundamentals  
-- Data-Driven Business Strategy  
-- Customer Engagement & Digital Marketing Concepts
+- Machine Learning
+- Large Language Models (LLM Behavior & Prompt Optimization)
+- Data Engineering Fundamentals
+- AI-Driven Decision Support Systems
