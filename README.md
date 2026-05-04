@@ -45,7 +45,7 @@ Currently, I teach Python while continually strengthening my expertise in data a
 - Designed database structure and implemented dynamic data retrieval
 - Demonstrated understanding of system architecture and data flow
 
-🔗 Project: https://distraco.com/home?locale=en
+🔗 Project: http://distraco.my.id/home?locale=en
 
 ---
 
